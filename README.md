@@ -29,7 +29,7 @@ Testamos cinco modelos de aprendizado de máquina e avaliamos seu desempenho com
            É necessário estar logado em uma conta Google!
 
 
-🔗 **[Executar Predição no Google Colab](https://colab.research.google.com/github/dedecode/Diabetes_Prediction/blob/main/diabetes_prediction.ipynb)**  
+🔗 **[Executar Predição no Google Colab](https://colab.research.google.com/github/dedecode/Diabetes_Prediction/blob/main/Projeto_IA_Predi%C3%A7%C3%A3o_de_Diabetes.ipynb)**  
 
 ### ⚙️ Como executar corretamente  
 
